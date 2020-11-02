@@ -1,0 +1,9 @@
+总用量 4
+drwxrwxr-x.  7 zhangxidong zhangxidong   84 10月 29 14:35 .
+drwx------. 20 zhangxidong zhangxidong 4096 10月 29 11:56 ..
+drwxrwxr-x.  7 zhangxidong zhangxidong  119 10月 27 14:18 .git
+drwxrwxr-x.  2 zhangxidong zhangxidong   32 10月 28 22:26 include
+drwxrwxr-x.  2 zhangxidong zhangxidong   90 10月 28 22:28 lib
+-rw-rw-r--.  1 zhangxidong zhangxidong    0 10月 29 14:35 result.txt
+drwxrwxr-x.  2 zhangxidong zhangxidong   74 10月 29 11:58 src
+drwxrwxr-x.  2 zhangxidong zhangxidong   19 10月 28 22:31 try

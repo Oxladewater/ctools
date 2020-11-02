@@ -1,0 +1,3 @@
+/home/zhangxidong/sum.c
+/home/zhangxidong/ctools/src/sum.c
+/home/zhangxidong/ctools/lib/sum.c

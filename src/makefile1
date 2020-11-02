@@ -1,0 +1,3 @@
+exe.a:max.c sum.c
+	gcc max.c -I ../include ../lib/max.a -o max
+	gcc sum.c -I ../include ../lib/sum.a -o sum
